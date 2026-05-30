@@ -73,17 +73,3 @@ rgb = np.load("slice.npy")  # (H, W, 3) uint8
 labels = gslicr_segment(rgb, n_segments=512, n_iters=5, compactness=0.6)
 # labels: (H, W) int32
 ```
-
-# 3. What to cite
-If you use this code for your research, please kindly cite:
-```
-@article{gSLICr_2015,
-	author = {{Ren}, C.~Y and {Prisacariu}, V.~A. and {Reid}, I.~D},
-	title = "{gSLICr: SLIC superpixels at over 250Hz}",
-	journal = {ArXiv e-prints},
-	eprint = {1509.04232},
-	year = 2015,
-	month = sep
-}
-```
-[arxiv linke](http://arxiv.org/abs/1509.04232)
