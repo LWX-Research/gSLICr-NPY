@@ -1,0 +1,11 @@
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/gSLICr_lib.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/gslicr_npy.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/gslicr_bridge.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/demo.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/demo_image.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/demo_benchmark.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/edit_cache.dir
+/root/autodl-tmp/third_party/gSLICr/build/CMakeFiles/rebuild_cache.dir
+/root/autodl-tmp/third_party/gSLICr/build/ORUtils/CMakeFiles/ORUtils.dir
+/root/autodl-tmp/third_party/gSLICr/build/ORUtils/CMakeFiles/edit_cache.dir
+/root/autodl-tmp/third_party/gSLICr/build/ORUtils/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -march=native -Wall -Wextra -Wno-unused-parameter -Wno-strict-aliasing  CMakeFiles/gslicr_npy.dir/demo_npy.cpp.o -o gslicr_npy  libgSLICr_lib.a /usr/local/cuda/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -fPIC -O3 -march=native -Wall -Wextra -Wno-unused-parameter -Wno-strict-aliasing  -shared -Wl,-soname,libgslicr_bridge.so -o libgslicr_bridge.so CMakeFiles/gslicr_bridge.dir/gslicr_bridge.cpp.o  libgSLICr_lib.a /usr/local/cuda/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 
