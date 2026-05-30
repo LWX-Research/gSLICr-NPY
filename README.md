@@ -1,17 +1,5 @@
 # gSLICr: SLIC superpixels at over 250Hz
 
-![sample](sample.bmp)
-
-This is the software bundle "gSLICr", a library for real-time superpixel segmentation written in C++ and CUDA. The current version is maintained by:
-
-  [Carl Yuheng Ren](http://www.carlyuheng.com/) : <carl@robots.ox.ac.uk>  
-  [Victor Adrian Prisacariu](http://www.robots.ox.ac.uk/~victor/) : <victor@robots.ox.ac.uk>  
-  Ian D Reid : <ian.reid@adelaide.edu.au>  
-
-For more information about gSLICr please visit the project website <http://www.robots.ox.ac.uk/~victor/gslicr>. 
-
-Other related projects can be found in the Oxford Active Vision Library <http://www.oxvisionlib.org>.
-
 # 1. Updates from gSLIC
 - Works for any size / number of super pixels
 - With GTX Titan X, 3.4ms@640x480, 12ms@1280x960, 20ms@1920x1080 image
